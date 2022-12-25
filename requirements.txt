@@ -1,0 +1,15 @@
+pandas
+numpy
+langdetect
+notebook
+jupyter
+tqdm
+matplotlib
+nltk
+wordninja
+pyspellchecker
+vaderSentiment
+tweet-preprocessor
+textblob
+scikit-learn
+tensorflow
